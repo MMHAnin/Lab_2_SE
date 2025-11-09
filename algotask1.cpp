@@ -17,6 +17,6 @@ int main() {
     }
 
     cout << "The character '" << tchtr << "' has " << count << " times " << endl;
-
+ cout<<"rohit roy"<<endl;
     return 0;
 }
